@@ -1,0 +1,2 @@
+# FlexDesgin
+FlexDesginは柔軟な操作、直感的な操作を実現するUIの設計思想です
